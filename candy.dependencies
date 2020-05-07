@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "kernel_asus_sdm660",
+    "target_path": "kernel/xiaomi/sdm660,
+  },
+  {
+    "repository":  "SecretIngredients/vendor_asus",
+    "target_path": "vendor/asus",
+    "branch":      "c10"
+  }
+]
+
